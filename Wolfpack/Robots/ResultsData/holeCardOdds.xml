@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_22" class="java.beans.XMLDecoder"> 
+ <object class="java.util.HashMap"> 
+  <void method="put"> 
+   <int>10701</int> 
+   <float>43.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>0</int> 
+   <float>50.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>1100</int> 
+   <float>50.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>11000</int> 
+   <float>49.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>10700</int> 
+   <float>42.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>1101</int> 
+   <float>51.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>11001</int> 
+   <float>50.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10703</int> 
+   <float>45.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1102</int> 
+   <float>52.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>11002</int> 
+   <float>51.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10702</int> 
+   <float>43.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>1103</int> 
+   <float>53.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>11003</int> 
+   <float>52.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>11004</int> 
+   <float>53.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>11005</int> 
+   <float>54.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>11006</int> 
+   <float>56.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>11007</int> 
+   <float>57.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>804</int> 
+   <float>46.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>805</int> 
+   <float>48.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>806</int> 
+   <float>50.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>807</int> 
+   <float>51.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>800</int> 
+   <float>41.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>801</int> 
+   <float>42.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>802</int> 
+   <float>43.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>803</int> 
+   <float>44.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>1109</int> 
+   <float>60.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>1108</int> 
+   <float>59.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1111</int> 
+   <float>82.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>1110</int> 
+   <float>61.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>10704</int> 
+   <float>47.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>808</int> 
+   <float>75.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>1105</int> 
+   <float>55.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>1104</int> 
+   <float>54.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>10705</int> 
+   <float>49.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>1107</int> 
+   <float>58.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>10706</int> 
+   <float>51.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>1106</int> 
+   <float>56.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>11209</int> 
+   <float>65.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>11208</int> 
+   <float>64.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>11211</int> 
+   <float>67.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11210</int> 
+   <float>66.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>11201</int> 
+   <float>58.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11200</int> 
+   <float>57.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11203</int> 
+   <float>59.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>11202</int> 
+   <float>58.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>11205</int> 
+   <float>61.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>11204</int> 
+   <float>60.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11207</int> 
+   <float>63.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11206</int> 
+   <float>62.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>300</int> 
+   <float>33.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>301</int> 
+   <float>35.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>302</int> 
+   <float>37.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>303</int> 
+   <float>60.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>10100</int> 
+   <float>35.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>100</int> 
+   <float>31.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>10908</int> 
+   <float>57.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>101</int> 
+   <float>53.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10906</int> 
+   <float>54.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>10907</int> 
+   <float>55.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>10904</int> 
+   <float>50.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>10905</int> 
+   <float>52.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>10902</int> 
+   <float>49.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>10903</int> 
+   <float>50.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>10900</int> 
+   <float>47.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>10901</int> 
+   <float>47.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>601</int> 
+   <float>37.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>10401</int> 
+   <float>39.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>600</int> 
+   <float>36.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>10400</int> 
+   <float>37.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>603</int> 
+   <float>41.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10403</int> 
+   <float>43.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>602</int> 
+   <float>39.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>10402</int> 
+   <float>41.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>605</int> 
+   <float>45.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>604</int> 
+   <float>43.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>606</int> 
+   <float>69.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>11106</int> 
+   <float>58.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>11107</int> 
+   <float>60.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11104</int> 
+   <float>56.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>11105</int> 
+   <float>57.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>11110</int> 
+   <float>63.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>11108</int> 
+   <float>61.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>11109</int> 
+   <float>62.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>402</int> 
+   <float>38.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>403</int> 
+   <float>40.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>400</int> 
+   <float>34.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>401</int> 
+   <float>35.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>404</int> 
+   <float>63.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>702</int> 
+   <float>40.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>703</int> 
+   <float>42.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>700</int> 
+   <float>38.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>701</int> 
+   <float>39.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>10604</int> 
+   <float>46.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>10605</int> 
+   <float>48.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>10602</int> 
+   <float>42.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10603</int> 
+   <float>44.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>10600</int> 
+   <float>40.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>10601</int> 
+   <float>40.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>909</int> 
+   <float>77.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>908</int> 
+   <float>55.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>907</int> 
+   <float>53.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>906</int> 
+   <float>51.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>905</int> 
+   <float>49.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>904</int> 
+   <float>47.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>903</int> 
+   <float>47.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>902</int> 
+   <float>46.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>901</int> 
+   <float>45.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>900</int> 
+   <float>44.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>11101</int> 
+   <float>53.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>11100</int> 
+   <float>52.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>11103</int> 
+   <float>55.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>11102</int> 
+   <float>54.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10805</int> 
+   <float>51.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>10804</int> 
+   <float>49.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>10807</int> 
+   <float>54.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>10806</int> 
+   <float>52.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>201</int> 
+   <float>34.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>10500</int> 
+   <float>38.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>10801</int> 
+   <float>45.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>200</int> 
+   <float>32.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>10501</int> 
+   <float>40.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>10800</int> 
+   <float>44.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>10502</int> 
+   <float>41.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>10803</int> 
+   <float>47.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>10503</int> 
+   <float>43.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>10802</int> 
+   <float>46.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>202</int> 
+   <float>57.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>10504</int> 
+   <float>45.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>1008</int> 
+   <float>57.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>1009</int> 
+   <float>58.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>1010</int> 
+   <float>79.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1001</int> 
+   <float>47.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1000</int> 
+   <float>47.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>1003</int> 
+   <float>50.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>1002</int> 
+   <float>49.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>1005</int> 
+   <float>51.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1004</int> 
+   <float>51.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>1007</int> 
+   <float>55.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>1006</int> 
+   <float>53.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>504</int> 
+   <float>42.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>11008</int> 
+   <float>59.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>11009</int> 
+   <float>60.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>505</int> 
+   <float>66.2</float> 
+  </void> 
+  <void method="put"> 
+   <int>500</int> 
+   <float>34.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>10200</int> 
+   <float>36.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>705</int> 
+   <float>46.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>501</int> 
+   <float>36.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>10201</int> 
+   <float>38.0</float> 
+  </void> 
+  <void method="put"> 
+   <int>704</int> 
+   <float>44.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>502</int> 
+   <float>38.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>707</int> 
+   <float>72.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>503</int> 
+   <float>40.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>706</int> 
+   <float>48.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>10301</int> 
+   <float>39.3</float> 
+  </void> 
+  <void method="put"> 
+   <int>10300</int> 
+   <float>37.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>10302</int> 
+   <float>41.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>1202</int> 
+   <float>56.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>1203</int> 
+   <float>57.7</float> 
+  </void> 
+  <void method="put"> 
+   <int>1200</int> 
+   <float>54.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>1201</int> 
+   <float>55.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>1206</int> 
+   <float>60.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>1207</int> 
+   <float>60.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1204</int> 
+   <float>57.8</float> 
+  </void> 
+  <void method="put"> 
+   <int>1205</int> 
+   <float>59.1</float> 
+  </void> 
+  <void method="put"> 
+   <int>1210</int> 
+   <float>64.5</float> 
+  </void> 
+  <void method="put"> 
+   <int>1211</int> 
+   <float>65.4</float> 
+  </void> 
+  <void method="put"> 
+   <int>1208</int> 
+   <float>62.9</float> 
+  </void> 
+  <void method="put"> 
+   <int>1209</int> 
+   <float>63.6</float> 
+  </void> 
+  <void method="put"> 
+   <int>1212</int> 
+   <float>85.3</float> 
+  </void> 
+ </object> 
+</java> 
