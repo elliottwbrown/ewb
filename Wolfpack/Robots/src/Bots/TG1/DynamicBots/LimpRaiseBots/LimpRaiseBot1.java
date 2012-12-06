@@ -1,9 +1,9 @@
 package Bots.TG1.DynamicBots.LimpRaiseBots;
 
-import Bots.TG1.DynamicBots.MemoryBots.FourPointBuck;
+import Bots.TG1.DynamicBots.MemoryBots.FourPointBuck39R50;
 import PokerCommons.PokerObjects.GameProtocols.TG1.GameValues;
 
-public class LimpRaiseBot1 extends FourPointBuck {
+public class LimpRaiseBot1 extends FourPointBuck39R50 {
     
     @Override
     public int makeDecision() throws Exception {
