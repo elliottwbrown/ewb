@@ -1,0 +1,26 @@
+init
+getPreferences
+update
+newGame
+action
+preFlopAction
+postFlopAction
+getLastNPot
+ppot
+
+
+PreflopGroup
+WeightTable
+ProbTriple
+
+
+
+Action.checkAction();
+Action.callAction(double toCall);
+Action.foldAction(double toCall);
+
+Action.betAction(double amountToBet);
+Action.betAction(gi.getBetSize());
+
+Action.raiseAction(double toCall, double amountToRaise);
+Action.raiseAction(toCall, gi.getBetSize());

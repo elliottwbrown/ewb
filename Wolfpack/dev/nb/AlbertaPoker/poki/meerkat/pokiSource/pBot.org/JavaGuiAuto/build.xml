@@ -1,0 +1,47 @@
+<project name="JavaGuiAuto" default="compile" basedir=".">
+
+    <path id="class.path">
+        <pathelement location="out"/>
+        <pathelement location="res"/>
+        <fileset dir="lib">
+            <include name="*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="compile">
+        <javac srcdir="java" destdir="out" classpathref="class.path" deprecation="false" debug="true"/>
+    </target>
+
+    <target name="clean">
+        <!-- kill the entire build dir -->
+        <delete dir="out"/>
+        <mkdir dir="out"/>
+    </target>
+
+    <target name="updatedll">
+        <copy file="Win32GUINative/Debug/Win32GUINative.dll" todir="."/>
+    </target>
+
+    <target name="native">
+        <javah classpathref="class.path" destdir="native" class="win32.Win32GUI"/>
+    </target>
+
+    <target name="package">
+        <jar destfile="lib/JavaAutoGui.jar" basedir="out" includes="win32/**"/>
+    </target>
+
+    <target name="test">
+        <junit printsummary="yes">
+            <classpath>
+                <pathelement location="out"/>
+                <pathelement location="res"/>
+                <fileset dir="lib">
+                    <include name="*.jar"/>
+                </fileset>
+            </classpath>
+            <formatter type="plain"/>
+            <test name="win32.test.GuiAutomationTest"/>
+        </junit>
+    </target>
+
+</project>

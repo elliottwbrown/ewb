@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metadatadoc version="2.0">
+	<object type="Entity" id="E1758235-7E81-1F36-123E-BC0285547083" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" visible_in_main_view="true" entitytype="" allow_type_substitution="true" strategy="Single Table" minVolumes="0" expectedVolumes="0" maxVolumes="9999999" growthPercent="0" growthType="Year" normalForm="Third" adequatelyNormalized="NO" use_default_color="true" background_color="null" foreground_color="null">
+		<name>Hole Card</name>
+		<comment></comment>
+		<notes></notes>
+		<alter type="created">
+			<user>elliott</user>
+			<timestamp>2012-01-20 01:25:14</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>elliott</user>
+			<timestamp>2012-01-20 01:31:40</timestamp>
+		</alter>
+		<properties>
+			<parameter name="design.owner" value="TG1" />
+			<parameter name="object.existsinrepository" value="true" />
+			<parameter name="property.comment.rdbms" value="" />
+		</properties>
+		<parent inherits="false" />
+		<engineering>
+			<relational_design id="FBFE4CC3-AE1C-788C-BA7A-81433641683B" should="true" />
+		</engineering>
+		<des_obj_version version="1.0" />
+		<fonts>
+			<font_object>
+				<parameter name="fo_type" value="Title" />
+				<parameter name="font_color" value="-16776961" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="1" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="Attribute" />
+				<parameter name="font_color" value="-16777216" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="Datatype" />
+				<parameter name="font_color" value="-16744448" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="PK Element" />
+				<parameter name="font_color" value="-16776961" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="FK Element" />
+				<parameter name="font_color" value="-16777216" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="UK Element" />
+				<parameter name="font_color" value="-16776961" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="Not Null" />
+				<parameter name="font_color" value="-65536" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+			<font_object>
+				<parameter name="fo_type" value="Key" />
+				<parameter name="font_color" value="-16777216" />
+				<parameter name="font_name" value="Dialog" />
+				<parameter name="font_size" value="10" />
+				<parameter name="font_style" value="0" />
+			</font_object>
+		</fonts>
+		<documents />
+		<parties />
+		<changerequests />
+		<measurements />
+		<contained>
+			<object type="Attribute" id="4C305504-52A7-0A68-E85F-15FDC17F39FC" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" visible_in_main_view="false" use_default_color="true" background_color="null" foreground_color="null" unique="false" allownull="true" usedomainconstraints="true" is_oid="false" structured_attribute_id="" fk="false">
+				<name>Card</name>
+				<comment></comment>
+				<notes></notes>
+				<alter type="created">
+					<user>elliott</user>
+					<timestamp>2012-01-20 01:30:58</timestamp>
+				</alter>
+				<alter type="changed">
+					<user>elliott</user>
+					<timestamp>2012-01-20 01:31:40</timestamp>
+				</alter>
+				<properties>
+					<parameter name="design.owner" value="TG1" />
+					<parameter name="object.existsinrepository" value="true" />
+					<parameter name="property.comment.rdbms" value="" />
+				</properties>
+				<engineering>
+					<relational_design id="FBFE4CC3-AE1C-788C-BA7A-81433641683B" should="true" />
+				</engineering>
+				<des_obj_version version="1.0" />
+				<domain oid="DOM3000004" file="defaultdomains" />
+				<datatype dttype="builtin" typename="UNKNOWN" />
+				<reference value="false" />
+				<logicaltype dttype="unknown" oid="LOGDT017" />
+				<use value="domain" />
+				<sourcetype sort="" />
+				<formula desc="" />
+				<subtypeSubstitution value="true" />
+				<restricted_substitution value="false" />
+				<source value="" />
+				<documents />
+				<parties />
+				<changerequests />
+				<measurements />
+			</object>
+		</contained>
+		<key />
+	</object>
+</metadatadoc>

@@ -1,0 +1,8 @@
+instantiating MemoryBot1
+  bluff1=0.1
+  bluff2=0.25
+  bluff3=0.45
+  checkProbAdjFactor=1.2
+  raiseProbAdjFactor=0.9
+  checkRaiseOn=true
+  bluffingOn=true

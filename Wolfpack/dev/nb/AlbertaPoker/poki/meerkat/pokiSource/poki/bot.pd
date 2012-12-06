@@ -1,0 +1,2 @@
+PLAYER_CLASS=poker.ai.player.AlwaysCallPlayer
+

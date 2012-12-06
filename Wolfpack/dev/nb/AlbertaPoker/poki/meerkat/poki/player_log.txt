@@ -1,0 +1,9 @@
+foobot2(myBotPlayer_1),1200 games,sb/h=0.0356,+$423
+
+funkbot,1107games,sb/h=0.13,+$1400
+funkbot,1845games,sb/h=0.09,+1666
+
+funkbot2,2416games,sb/h=-0.07,-1796
+
+
+deathFlop, 9300games, sb/h= -.04, -$3,724

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<design version="2.0" id="9C3B9C81-900F-3B5A-FBAC-0F52D4C614FC">
+	<ref>
+		<objectid role="contains" type="Entity" oid="D27DADA7-A115-5F04-D61C-8EB67263A880" />
+		<objectid role="contains" type="Entity" oid="1F99E83F-8AF2-AC70-23F2-49151161E744" />
+		<objectid role="contains" type="Entity" oid="730AF7DE-4D2A-7B2E-E684-C4CD3298972B" />
+		<objectid role="contains" type="Entity" oid="E1758235-7E81-1F36-123E-BC0285547083" />
+		<objectid role="contains" type="Entity" oid="7FA08D17-BEC4-6176-3BD0-A4998CD6F957" />
+		<objectid role="contains" type="Entity" oid="2471947F-703C-FDDC-6FDF-91FCBAA6E27C" />
+		<objectid role="contains" type="Relation" oid="CEE35CB2-D002-CDF7-7211-7F162F8E4731" />
+		<objectid role="contains" type="Relation" oid="ABD9DD89-2B46-691A-9565-16A4B5F9A393" />
+		<objectid role="contains" type="Relation" oid="53EE6584-5D17-1553-A546-0BC09906A9BB" />
+		<objectid role="contains" type="Relation" oid="10742912-54D9-471F-B945-3D326B8F1D5A" />
+		<objectid role="contains" type="Relation" oid="F4EEC73E-8046-0C14-C34A-45C41F19C78A" />
+		<objectid role="contains" type="Relation" oid="43939F57-EA73-93AD-9D91-AD7FE6CE6BCB" />
+		<objectid role="contains" type="Relation" oid="1EDADBB1-A01E-4C5F-E465-466A6A3F6F1E" />
+		<objectid role="contains" type="Note" oid="DEF5F180-DC7B-50D8-0F2B-C9FA93542AC9" />
+	</ref>
+	<type_substitutions />
+	<ext_sub_views_collection>
+		<sub_view subview_name="Logical" id="9697AAD0-456D-BBC0-17F5-FFCE850CC478" sv_type="main_view" visible="true" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" />
+	</ext_sub_views_collection>
+	<documents />
+	<parties />
+	<naming_options>
+		<naming_option class_name="oracle.dbtools.crest.model.design.logical.Entity" max_name_length="254" case_type="2" valid_characters="" all_valid="true" />
+		<naming_option class_name="oracle.dbtools.crest.model.design.logical.Attribute" max_name_length="254" case_type="2" valid_characters="" all_valid="true" />
+		<naming_option class_name="oracle.dbtools.crest.model.design.logical.EntityView" max_name_length="254" case_type="2" valid_characters="" all_valid="true" />
+	</naming_options>
+</design>

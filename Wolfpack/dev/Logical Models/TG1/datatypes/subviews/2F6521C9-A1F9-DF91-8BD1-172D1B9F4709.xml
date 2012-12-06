@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metadatadoc version="2.0">
+	<sub_view subview_name="Data Types" id="2F6521C9-A1F9-DF91-8BD1-172D1B9F4709" generator="null" visible="false" comment="" notes="" sv_type="main_view" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="">
+		<alter type="created">
+			<user>elliott</user>
+			<timestamp>2012-01-20 01:34:11</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>elliott</user>
+			<timestamp>2012-01-20 01:34:11</timestamp>
+		</alter>
+		<main_display name="Data Types" objectid="2F6521C9-A1F9-DF91-8BD1-172D1B9F4709" notation="1" show_all_details="true" show_names_only="false" show_elements="false" show_datatype="false" show_keys="false" auto_route="true" box_in_box="false" comment="" notes="">
+			<objectid role="represents" type="StructuredType" oid="47E390DE-0671-C4B1-8428-0F45CBEE18F8" viewid="03B780DA-296F-AF9E-B166-3BC9BBE40CB9" tv_generator_id="null" viewnumber="0">
+				<graphical>
+					<parameter name="background_color" value="NULL" />
+					<parameter name="foreground_color" value="NULL" />
+					<parameter name="h" value="100.0" />
+					<parameter name="use_default_color" value="true" />
+					<parameter name="w" value="100.0" />
+					<parameter name="x" value="20.0" />
+					<parameter name="y" value="20.0" />
+				</graphical>
+			</objectid>
+			<alter type="created">
+				<user>elliott</user>
+				<timestamp>2012-01-20 01:22:16</timestamp>
+			</alter>
+			<alter type="changed">
+				<user>elliott</user>
+				<timestamp>2012-01-20 01:34:11</timestamp>
+			</alter>
+		</main_display>
+		<subordinate_displays />
+	</sub_view>
+</metadatadoc>

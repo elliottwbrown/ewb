@@ -1,0 +1,3 @@
+PLAYER_CLASS=poker.ai.player.myBotPlayer
+RANDOM_SEED=0
+DEBUG=true

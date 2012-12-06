@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metadatadoc version="2.0">
+	<object type="Relation" id="ABD9DD89-2B46-691A-9565-16A4B5F9A393" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" visible_in_main_view="true" use_default_color="true" background_color="null" foreground_color="null">
+		<name>Relation_1</name>
+		<comment></comment>
+		<notes></notes>
+		<alter type="created">
+			<user>elliott</user>
+			<timestamp>2012-01-20 01:25:45</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>elliott</user>
+			<timestamp>2012-01-20 01:25:45</timestamp>
+		</alter>
+		<properties>
+			<parameter name="design.owner" value="TG1" />
+			<parameter name="object.existsinrepository" value="true" />
+		</properties>
+		<connection endpoint="source" card="1" entity="1F99E83F-8AF2-AC70-23F2-49151161E744" allownull="true" />
+		<connection endpoint="target" card="*" entity="730AF7DE-4D2A-7B2E-E684-C4CD3298972B" allownull="true" />
+		<dominant_role>null</dominant_role>
+		<identifying>false</identifying>
+		<engineering>
+			<relational_design id="FBFE4CC3-AE1C-788C-BA7A-81433641683B" should="true" />
+		</engineering>
+		<des_obj_version version="1.0" />
+		<documents />
+		<parties />
+		<changerequests />
+		<measurements />
+	</object>
+</metadatadoc>

@@ -1,0 +1,1 @@
+java -cp c:\poki\poker poker.online.BotPlayer C:\poki\bot.pd hilo.cs.ualberta.ca 55002 smapty6 zzz
