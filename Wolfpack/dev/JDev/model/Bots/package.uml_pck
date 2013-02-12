@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
- <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.2.1.0'/>
- <uml:Package xmi:uuid='urn:uuid:fe109108-25b8-4f99-8874-ee7cc49baa15'
-   name='Bots'
-   visibility='public'/>
-</xmi:XMI>
